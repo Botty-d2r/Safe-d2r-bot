@@ -1,6 +1,6 @@
 Our Discord: https://discord.gg/qRdArnNQ
 
-<p align="center"> <img src="assets/logo.webp" alt="Discord Community Logo" width="150"> </p> <h3 align="center">Diablo II: Resurrected Bot Community</h3>
+<h3 align="center">Diablo II: Resurrected Bot Community</h3>
 This project is a small bot for Diablo II: Resurrected, built for informational and educational purposes only, and not intended for online usage. Feel free to contribute by opening pull requests with new features or bug fixes.
 
 The bot reads game memory and interacts with the game by injecting clicks and keystrokes into the game window. Join our Discord community to report bugs, ask for help, or just to chat: Join Our Discord.
